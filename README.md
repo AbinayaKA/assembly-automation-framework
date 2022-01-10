@@ -10,8 +10,8 @@ Pre-requisites:
   3. Import dependencies to class path 
 
 Folders and Files:
-configuration: Includes the base configuration to set-up driver and initiate tests
-resources: Includes test data file to provide and update user input (Update driver location in REPLACE_ME)
-utils: Includes WebDriver functionalities and and config reader file to read input data
-pages and tests: Includes test cases and corresponding page objects
+  1. configuration: Includes the base configuration to set-up driver and initiate tests
+  2. resources: Includes test data file to provide and update user input (Update driver location in REPLACE_ME)
+  3. utils: Includes WebDriver functionalities and and config reader file to read input data
+  4. pages and tests: Includes test cases and corresponding page objects
 
