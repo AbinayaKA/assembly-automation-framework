@@ -15,3 +15,6 @@ Folders and Files:
   3. utils: Includes WebDriver functionalities and and config reader file to read input data
   4. pages and tests: Includes test cases and corresponding page objects
 
+Test Execution:
+AssemblyAutomationProject.xml must be executed which includes all the three classes.
+
